@@ -12,4 +12,5 @@ fetch(scriptUrl)
       eval(scriptText);
       console.log('✅ Script loaded and executed.');
   })
-  .catch(error => console.error('❌ Failed to load script:', error));```
+  .catch(error => console.error('❌ Failed to load script:', error));
+```
