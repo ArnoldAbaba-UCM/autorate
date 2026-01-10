@@ -1,6 +1,6 @@
 #SCHOOLING
+
 #############################autorate:#############################
-paste rani sa console par:
 
 ```javascript
 const scriptUrl = 'https://raw.githubusercontent.com/ArnoldAbaba-UCM/autorate/main/autoratenigga.js';
@@ -18,7 +18,9 @@ fetch(scriptUrl)
 
 
 #PERSONAL
+
 #############################pinterest#############################
+
 ```javascript
 const scriptUrl = 'https://github.com/ArnoldAbaba-UCM/autorate/blob/main/bullshits/pinterestPhotoGrabberNoLogIn.js';
 
