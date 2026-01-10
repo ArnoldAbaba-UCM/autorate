@@ -1,5 +1,5 @@
-##SCHOOLING
-# autorate:
+#SCHOOLING
+#############################autorate:#############################
 paste rani sa console par:
 
 ```javascript
@@ -14,8 +14,11 @@ fetch(scriptUrl)
   })
   .catch(error => console.error('❌ Failed to load script:', error));
 ```
-##PERSONAL
-#pinterest
+
+
+
+#PERSONAL
+#############################pinterest#############################
 ```javascript
 const scriptUrl = 'https://github.com/ArnoldAbaba-UCM/autorate/blob/main/bullshits/pinterestPhotoGrabberNoLogIn.js';
 
